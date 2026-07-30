@@ -1,21 +1,23 @@
 # SHREYASH DANDEKAR
-Backend Developer Intern @ The Baap Company
+Full Stack Developer | Backend, Flutter, React & AI Integration
 Location: India | Phone: +91 7498539668 | Email: shreyashd429@gmail.com
 LinkedIn: https://linkedin.com/in/shreyash-dandekar-19387a321 | GitHub: https://github.com/Shreyash1106
 
 ================================================================================
 PROFESSIONAL SUMMARY
 ================================================================================
-Backend Developer Intern with experience designing and developing RESTful APIs, relational database schemas, and secure authentication systems. Experienced in TypeScript, Python, Node.js, Fastify, FastAPI, PostgreSQL, and MySQL. Proven track record of building production backend services for internal company systems at The Baap Company while independently developing scalable backend projects. Strong focus on API design, data integrity, and system performance.
+Full Stack Developer & Backend Specialist with expertise in building scalable RESTful APIs, cross-platform mobile applications in Flutter, modern web interfaces in React, and multi-agent AI pipelines. Experienced in TypeScript, Python, Node.js, Fastify, FastAPI, Flutter, React, PostgreSQL, MySQL, and AWS S3. Proven track record of developing production backend services for internal company systems at The Baap Company while architecting multi-agent AI workflows and real-time full-stack applications.
 
 ================================================================================
 TECHNICAL SKILLS
 ================================================================================
-* Languages: Python, TypeScript, JavaScript, SQL
-* Backend Frameworks & Technologies: FastAPI, Fastify, Node.js, Express.js, REST APIs, JWT Authentication
-* Databases & Storage: PostgreSQL, MySQL
-* Tools & Infrastructure: Docker, Git, GitHub, Postman, VS Code
-* Core Concepts & Active Learning: System Design, Database Normalization, Microservices, AI/LLM API Integrations, AWS, Kubernetes, CI/CD
+* Backend & Languages: Python, TypeScript, JavaScript, SQL, FastAPI, Fastify, Node.js, Express.js, REST APIs, JWT Authentication
+* Mobile Development: Flutter, Dart, GetX, GoRouter, Dio
+* Frontend Technologies: React, Vite, Tailwind CSS, HTML5, CSS3, Zustand
+* Applied AI & LLM Systems: LangGraph (Multi-Agent Workflows), Groq LLaMA 3.3, Google Gemini API, Streamlit
+* Databases & Cloud Storage: PostgreSQL, MySQL, Sequelize ORM, SQLAlchemy ORM, AWS S3
+* Tools & Protocols: Socket.io (Real-Time Websockets), Docker, Git, GitHub, Postman, Cloudinary
+* Active Learning: System Design, Microservices, Kubernetes, Advanced AWS
 
 ================================================================================
 WORK EXPERIENCE
@@ -35,25 +37,37 @@ August 2024 – Present (2 Years)
   - Tech Stack: Node.js, Express.js, SQL, REST APIs, JWT Authentication
 
 ================================================================================
-PROJECTS (PERSONAL & SIDE PROJECTS)
+PROJECTS (PERSONAL & OPEN-SOURCE)
 ================================================================================
-Gaongotha Platform — Agriculture Marketplace Backend
-GitHub Backend: https://github.com/Shreyash1106/gaongotha-backend
-GitHub Frontend: https://github.com/Shreyash1106/gaongotha-frontend
-* Engineered trade-management API endpoints handling request -> negotiation -> verification flows between farmers, buyers, and FPCs.
-* Designed relational PostgreSQL database tables for user authentication, KYC data validation, and file upload routes.
-* Tech Stack: Fastify, TypeScript, PostgreSQL, JWT Authentication, REST APIs
+AI Travel Planner — Multi-Agent Travel Itinerary System
+GitHub Repository: https://github.com/Shreyash1106/AI_Travel_Planner
+* Engineered a 4-agent graph architecture using LangGraph (City Researcher, Flight Finder, Itinerary Planner, Output Synthesizer) powered by Groq LLaMA 3.3 70B.
+* Configured PostgreSQL for LangGraph conversation state checkpointing and integrated AviationStack and Tavily live APIs.
+* Tech Stack: Python, LangGraph, Groq LLaMA 3.3 70B, AviationStack API, Tavily API, PostgreSQL, Streamlit
 
-Attendance & Leave Management System (Independent Project)
-* Developed backend REST APIs using Node.js and PostgreSQL to handle employee attendance tracking and leave approval workflows.
-* Architected normalized database tables and enforced role-based access control for administrative actions.
-* Tech Stack: Node.js, Express.js, PostgreSQL, SQL, JWT
+Gaongotha Platform — Agricultural Marketplace (Backend & Flutter Mobile App)
+GitHub Backend: https://github.com/Shreyash1106/gaongotha-backend
+GitHub Mobile App: https://github.com/Shreyash1106/gaongotha-frontend
+* Built trade-management Fastify/TypeScript REST APIs with Sequelize PostgreSQL, JWT authentication, and AWS S3 document uploads.
+* Developed cross-platform mobile application using Flutter, Dart, GetX state management, GoRouter, and Dio HTTP client.
+* Tech Stack: Fastify, TypeScript, PostgreSQL, AWS S3, Flutter, Dart, GetX, GoRouter
+
+Real-Time Chat App
+GitHub Repository: https://github.com/Shreyash1106/real-time-chat-app
+* Built instant messaging application featuring real-time room communication via Socket.io and user online status tracking with Zustand.
+* Integrated Cloudinary for media attachments and JWT token authentication.
+* Tech Stack: React, Vite, TypeScript, Fastify, Socket.io, PostgreSQL, Cloudinary, Zustand
 
 Full-Stack E-Commerce Engine
 GitHub Repository: https://github.com/Shreyash1106/ECommerce
-* Developed backend REST APIs powering product catalog management, user shopping cart state, wishlist persistence, and coupon evaluation rules.
-* Implemented inventory validation logic during checkout processing to ensure transaction integrity.
-* Tech Stack: JavaScript, Node.js, Express.js, PostgreSQL, MySQL
+* Developed RESTful backend service using FastAPI and SQLAlchemy ORM on PostgreSQL with React frontend UI.
+* Built product catalog management, cart state, wishlist persistence, and administrative controls.
+* Tech Stack: Python, FastAPI, SQLAlchemy, PostgreSQL, React, Vite, Tailwind CSS
+
+Gemini AI Assistant
+GitHub Repository: https://github.com/Shreyash1106/chat-bot
+* Constructed asynchronous FastAPI backend integrated with Google Gemini 2.5 Flash API for conversational AI session handling.
+* Tech Stack: Python, FastAPI, Google Gemini 2.5 Flash API, HTML5, CSS3, JavaScript
 
 ================================================================================
 EDUCATION
