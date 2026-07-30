@@ -4,7 +4,7 @@
 
 ### **Backend Developer Intern @ The Baap Company**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Backend+Developer+Intern+%40+The+Baap+Company;Building+RESTful+APIs+%26+Database+Architectures;Fastify+%7C+FastAPI+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+MySQL+%7C+Docker+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Backend+Developer+Intern+%40+The+Baap+Company;Building+RESTful+APIs+%26+Database+Architectures;Fastify+%7C+FastAPI+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+MySQL+%7C+Docker+%7C+Python)](https://git.io/typing-svg)
 
 <br />
 
