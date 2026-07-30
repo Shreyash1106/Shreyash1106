@@ -2,9 +2,9 @@
 
 # Shreyash Dandekar
 
-### **Full Stack Developer | Backend, Flutter, React & AI Integration**
+### **Full Stack Developer | Backend, Flutter, React & AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Backend%2C+Flutter%2C+React+%26+AI;Building+Fastify%2C+FastAPI+%26+Node.js+Microservices;Mobile+Apps+with+Flutter+%7C+Web+Frontends+with+React;Agentic+AI+Pipelines+with+LangGraph+%26+LLMs;PostgreSQL+%7C+MySQL+%7C+Docker+%7C+AWS+S3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Backend%2C+Flutter%2C+React+%26+AI;Building+Fastify%2C+FastAPI+%26+Node.js+Services;Mobile+Apps+with+Flutter+%7C+Web+Frontends+with+React;AI+Pipelines+with+LangGraph+%26+LLMs;PostgreSQL+%7C+MySQL+%7C+Docker+%7C+AWS+S3)](https://git.io/typing-svg)
 
 <br />
 
@@ -20,20 +20,19 @@
 
 ## About Me
 
-Backend Developer Intern at **The Baap Company** working on internal production applications. Graduated with a **Bachelor of Computer Applications (BCA)** from **Mysore University**.
+I am a Backend Developer Intern at **The Baap Company** working on internal company applications. I graduated with a BCA degree from **Mysore University**.
 
-My technical background spans backend engineering, cross-platform mobile development, web frontends, and applied AI/LLM pipeline integrations. I build modular RESTful services with **TypeScript**, **Python**, **Node.js**, **Fastify**, and **FastAPI**, write cross-platform mobile apps with **Flutter**, build web frontends with **React**, and implement agentic AI workflows using **LangGraph** and LLM APIs.
+My main focus is backend engineering using TypeScript, Python, and SQL, while also building mobile apps in Flutter, web UIs in React, and exploring AI pipelines with LangGraph.
 
-- **Current Role**: Backend Developer Intern — The Baap Company
-- **Degree**: Bachelor of Computer Applications (BCA) — Mysore University
-- **Core Engineering**: Backend Architecture, Mobile Apps (Flutter), Web Interfaces (React), Relational Databases & AI Workflows
-- **Primary Stack**: TypeScript, Python, Fastify, FastAPI, Node.js, Express.js, Flutter, React, PostgreSQL, MySQL, AWS S3, LangGraph
+- 🎓 **Education**: BCA — Mysore University
+- 💼 **Current Role**: Backend Developer Intern @ The Baap Company
+- 🛠️ **Main Stack**: TypeScript, Python, Fastify, FastAPI, Node.js, Flutter, React, PostgreSQL, MySQL
 
 ---
 
 ## Tech Stack
 
-### ⚙️ Backend & Languages
+### Backend & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -46,7 +45,7 @@ My technical background spans backend engineering, cross-platform mobile develop
   <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -54,7 +53,7 @@ My technical background spans backend engineering, cross-platform mobile develop
   <img src="https://img.shields.io/badge/GoRouter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="GoRouter" />
 </p>
 
-### 🖥️ Frontend Technologies
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -62,7 +61,7 @@ My technical background spans backend engineering, cross-platform mobile develop
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
 
-### 🤖 Applied AI & LLM Systems
+### AI & LLM Tools (Side-Project Explorations)
 <p>
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="Groq LLaMA 3.3" />
@@ -70,7 +69,7 @@ My technical background spans backend engineering, cross-platform mobile develop
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### 🗄️ Databases & Cloud Storage
+### Databases & Cloud Storage
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -79,7 +78,7 @@ My technical background spans backend engineering, cross-platform mobile develop
   <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3" />
 </p>
 
-### 🧰 Tools & Real-Time Communication
+### Tools & Real-Time Communication
 <p>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -88,7 +87,7 @@ My technical background spans backend engineering, cross-platform mobile develop
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🎓 Currently Learning
+### Currently Learning
 <p>
   <img src="https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Microservices" />
@@ -100,85 +99,86 @@ My technical background spans backend engineering, cross-platform mobile develop
 
 ## Work Contributions @ The Baap Company
 
-*Internal backend engineering work performed as a Backend Developer Intern.*
+*Backend work done as an intern (company internal code, repos are private).*
 
-### 🏥 1. SJS Hospital — Hospital Management System Backend
-- **Role**: Backend Developer Intern @ The Baap Company
-- **Technical Summary**: Contributed to designing and implementing RESTful backend APIs for hospital workflow automation. Modeled relational database schemas for medical staff and patient records, and implemented JWT-based authentication middleware for role-restricted access.
-- **Tech Stack**: Node.js, Express.js, SQL, REST APIs, JWT Authentication
+### SJS Hospital (Hospital Backend)
+- Contributed to backend APIs for patient admission records and doctor scheduling workflows.
+- Designed database tables in SQL and added JWT authentication middleware.
+- **Tech Stack**: Node.js, Express.js, SQL, REST APIs, JWT
 
 ---
 
-### 🤖 2. Sangamner AI — AI Platform Backend Service
-- **Role**: Backend Developer Intern @ The Baap Company
-- **Technical Summary**: Worked on building high-performance asynchronous REST APIs in FastAPI to manage user requests and prompt session persistence. Developed database integration layer for tracking user conversation histories and API payload validations.
+### Sangamner AI (AI Platform Backend)
+- Worked on async FastAPI routes to handle prompt submissions and user session history.
+- Built database models to track user chat logs in SQL tables.
 - **Tech Stack**: Python, FastAPI, SQL, REST APIs
 
 ---
 
-## Personal & Open-Source Projects
+## Personal Projects
 
-### ✈️ 1. AI Travel Planner — Multi-Agent Travel Itinerary System
-- **Overview**: An agentic AI travel itinerary generator that coordinates a 4-agent graph architecture to research flights, query web search engines, compile daily schedules, and manage state checkpointing.
-- **Architecture & Standout Features**:
-  - **4-Agent Graph Pipeline**: Built using **LangGraph** (City Researcher, Flight Finder, Itinerary Planner, and Output Synthesizer).
-  - **LLM Engine**: Powered by Groq LLaMA 3.3 70B for fast multi-agent reasoning.
-  - **State Checkpointing**: Leveraged PostgreSQL for LangGraph conversation graph state persistence.
-  - **Live API Integration**: Integrated AviationStack API for real-time flight data and Tavily API for web research.
-- **Tech Stack**: `Python`, `LangGraph`, `Groq LLaMA 3.3 70B`, `AviationStack API`, `Tavily API`, `PostgreSQL`, `Streamlit`
-- 🚧 **Status**: *Active Side Project*
-- 🔗 **Repository**: [AI_Travel_Planner](https://github.com/Shreyash1106/AI_Travel_Planner)
+### AI Travel Planner
+A travel itinerary generator using a 4-agent graph architecture to plan trips based on user preferences.
+- Built a 4-agent pipeline using LangGraph (Researcher, Flight Finder, Planner, Synthesizer) with Groq LLaMA 3.3 70B.
+- Added PostgreSQL state checkpointing for conversation graph history.
+- Integrated AviationStack for flight lookup and Tavily API for web search.
+- **Tech Stack**: Python, LangGraph, Groq LLaMA 3.3, AviationStack API, Tavily API, PostgreSQL, Streamlit
+- 🚧 **Status**: Side Project
+- 🔗 **Repo**: [AI_Travel_Planner](https://github.com/Shreyash1106/AI_Travel_Planner)
 
 ---
 
-### 🌾 2. Gaongotha Platform — Agricultural Marketplace (Backend & Mobile App)
-- **Overview**: An agricultural marketplace system connecting farmers, buyers, and FPCs for trade negotiation, KYC verification, and product listings.
-- **Components & Features**:
-  - **Backend API**: Built with Fastify and TypeScript, using Sequelize ORM on PostgreSQL. Handles JWT authentication, trade negotiation flows, KYC document processing, and AWS S3 file uploads.
-  - **Flutter Mobile App**: Cross-platform Android/iOS mobile application engineered with Flutter, Dart, GetX state management, GoRouter navigation, and Dio HTTP client.
-- **Tech Stack**: `Fastify`, `TypeScript`, `PostgreSQL`, `Sequelize`, `AWS S3`, `Flutter`, `Dart`, `GetX`, `GoRouter`, `Dio`
-- 🚧 **Status**: *In Progress — updated in free time*
-- 🔗 **Backend Repository**: [gaongotha-backend](https://github.com/Shreyash1106/gaongotha-backend)
-- 🔗 **Mobile App Repository**: [gaongotha-frontend](https://github.com/Shreyash1106/gaongotha-frontend)
+### Gaongotha Platform (Agriculture Marketplace)
+An agricultural trading backend with a companion Flutter mobile app for farmers and buyers.
+- **Backend**: Fastify REST APIs in TypeScript with Sequelize ORM on PostgreSQL, handling KYC verification, trade requests, and AWS S3 uploads.
+- **Mobile App**: Cross-platform Android/iOS app built with Flutter, Dart, GetX, GoRouter, and Dio.
+- **Tech Stack**: Fastify, TypeScript, PostgreSQL, AWS S3, Flutter, Dart, GetX, GoRouter
+- 🚧 **Status**: In Progress (updated in free time)
+- 🔗 **Backend Repo**: [gaongotha-backend](https://github.com/Shreyash1106/gaongotha-backend)
+- 🔗 **Mobile Repo**: [gaongotha-frontend](https://github.com/Shreyash1106/gaongotha-frontend)
 
 ---
 
-### 💬 3. Real-Time Chat App
-- **Overview**: A full-stack instant messaging application with real-time room communication, user online status tracking, and file attachment handling.
-- **Standout Features**:
-  - **Real-Time Messaging**: Built with **Socket.io** for instant one-on-one and group conversation updates.
-  - **Presence & State**: Real-time user online/offline status tracking with Zustand client state management.
-  - **Media & Auth**: JWT authentication pipeline and Cloudinary media upload integration.
-- **Tech Stack**: `React`, `Vite`, `TypeScript`, `Fastify`, `Socket.io`, `PostgreSQL`, `Cloudinary`, `Zustand`, `Tailwind CSS`
-- 🚧 **Status**: *Active Side Project*
-- 🔗 **Repository**: [real-time-chat-app](https://github.com/Shreyash1106/real-time-chat-app)
+### Real-Time Chat App
+A full-stack chat application with real-time room messaging and online user status tracking.
+- Implemented real-time room messaging using Socket.io.
+- Managed client state and online/offline status using Zustand.
+- Integrated Cloudinary for media attachment uploads and JWT for authentication.
+- **Tech Stack**: React, Vite, TypeScript, Fastify, Socket.io, PostgreSQL, Cloudinary, Zustand
+- 🚧 **Status**: Side Project
+- 🔗 **Repo**: [real-time-chat-app](https://github.com/Shreyash1106/real-time-chat-app)
 
 ---
 
-### 🛒 4. Full-Stack E-Commerce Engine
-- **Overview**: A modular full-stack e-commerce web platform featuring separate operational workflows for customers, vendors, and platform administrators.
-- **Standout Features**:
-  - **Storefront & Admin Control**: Customer product browsing, cart & checkout processing, vendor product listings, and administrative CMS.
-  - **Database & Backend API**: High-performance RESTful service built with FastAPI and SQLAlchemy ORM on PostgreSQL.
-  - **Frontend UI**: Responsive React interface styled with Tailwind CSS.
-- **Tech Stack**: `Python`, `FastAPI`, `SQLAlchemy`, `PostgreSQL`, `React`, `Vite`, `Tailwind CSS`
-- 🚧 **Status**: *Active Side Project*
-- 🔗 **Repository**: [ECommerce](https://github.com/Shreyash1106/ECommerce)
+### Full-Stack E-Commerce Engine
+A self-built e-commerce web platform with separate customer, vendor, and admin workflows.
+- Built REST APIs in FastAPI using SQLAlchemy ORM on PostgreSQL.
+- Created product management, cart, checkout, and admin dashboard views.
+- Styled user frontend components with React and Tailwind CSS.
+- **Tech Stack**: Python, FastAPI, SQLAlchemy, PostgreSQL, React, Vite, Tailwind CSS
+- 🚧 **Status**: Side Project
+- 🔗 **Repo**: [ECommerce](https://github.com/Shreyash1106/ECommerce)
 
 ---
 
-### 🤖 5. Gemini AI Assistant
-- **Overview**: A multilingual AI chat interface featuring session memory retention and direct integration with Google's Gemini 2.5 Flash API.
-- **Standout Features**:
-  - **Asynchronous FastAPI Service**: Handles prompt validation, session context history, and stream response parsing.
-  - **Multilingual Support**: Supports multi-language conversation workflows with structured response output.
-- **Tech Stack**: `Python`, `FastAPI`, `Google Gemini 2.5 Flash API`, `HTML5`, `CSS3`, `JavaScript`
-- 🚧 **Status**: *Active Side Project*
-- 🔗 **Repository**: [chat-bot](https://github.com/Shreyash1106/chat-bot)
+### Gemini AI Assistant
+A simple multilingual chat interface integrated with Google Gemini 2.5 Flash API.
+- Created async FastAPI backend routes to stream response payloads and store conversation context.
+- Built a light frontend interface supporting multi-language queries.
+- **Tech Stack**: Python, FastAPI, Google Gemini 2.5 Flash API, JavaScript
+- 🚧 **Status**: Side Project
+- 🔗 **Repo**: [chat-bot](https://github.com/Shreyash1106/chat-bot)
 
 ---
 
-## 📊 GitHub Analytics
+## Technical Focus
+
+- **System Design**: Studying SQL query optimization, connection pooling, Redis caching, and microservices decomposition.
+- **Cloud & Infrastructure**: Practicing Docker container setups, AWS EC2/RDS deployment, and basic Kubernetes workflows.
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -199,7 +199,7 @@ My technical background spans backend engineering, cross-platform mobile develop
 
 <br />
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shreyash1106&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
@@ -207,7 +207,7 @@ My technical background spans backend engineering, cross-platform mobile develop
 
 <br />
 
-### 📈 Activity Graph
+### Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyash1106&theme=github-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -215,7 +215,7 @@ My technical background spans backend engineering, cross-platform mobile develop
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -227,7 +227,7 @@ My technical background spans backend engineering, cross-platform mobile develop
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -241,5 +241,5 @@ My technical background spans backend engineering, cross-platform mobile develop
 ---
 
 <div align="center">
-  <sub>Shreyash Dandekar — Full Stack Developer | Backend, Flutter, React & AI Integration</sub>
+  <sub>Shreyash Dandekar — Backend Developer Intern @ The Baap Company</sub>
 </div>
