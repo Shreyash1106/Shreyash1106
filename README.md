@@ -4,7 +4,7 @@
 
 ### **Full Stack Developer | Backend, Flutter, React & AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Backend%2C+Flutter%2C+React+%26+AI;Building+Fastify%2C+FastAPI+%26+Node.js+Services;Mobile+Apps+with+Flutter+%7C+Web+Frontends+with+React;AI+Pipelines+with+LangGraph+%26+LLMs;PostgreSQL+%7C+MySQL+%7C+Docker+%7C+AWS+S3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Backend+Developer+Intern+%40+The+Baap+Company;Building+Fastify%2C+FastAPI+%26+Node.js+Services;Mobile+Apps+in+Flutter+%7C+Web+Frontends+in+React)](https://git.io/typing-svg)
 
 <br />
 
@@ -32,7 +32,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
 
 ## Tech Stack
 
-### Backend & Languages
+### ⚙️ Backend & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -45,7 +45,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
   <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -53,7 +53,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
   <img src="https://img.shields.io/badge/GoRouter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="GoRouter" />
 </p>
 
-### Frontend
+### 🖥️ Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -61,7 +61,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
 
-### AI & LLM Tools (Side-Project Explorations)
+### 🤖 AI & LLM Tools (Side-Project Explorations)
 <p>
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="Groq LLaMA 3.3" />
@@ -69,7 +69,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### Databases & Cloud Storage
+### 🗄️ Databases & Cloud Storage
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -78,7 +78,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
   <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3" />
 </p>
 
-### Tools & Real-Time Communication
+### 🧰 Tools & Real-Time Communication
 <p>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -87,7 +87,7 @@ My main focus is backend engineering using TypeScript, Python, and SQL, while al
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### Currently Learning
+### 🎓 Currently Learning
 <p>
   <img src="https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Microservices" />
