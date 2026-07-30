@@ -8,9 +8,6 @@
 
 <br />
 
-<img src="./profile.jpg" width="160" height="160" style="border-radius: 50%; border: 2px solid #36BCF7;" alt="Shreyash Dandekar" />
-
-<br /><br />
 
 [![Resume](https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledocs&logoColor=white)](./resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-dandekar-19387a321)
