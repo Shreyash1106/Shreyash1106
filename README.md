@@ -8,7 +8,6 @@
 
 <br />
 
-
 [![Resume](https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledocs&logoColor=white)](./resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-dandekar-19387a321)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashd429@gmail.com)
@@ -218,12 +217,12 @@ My technical background spans backend engineering, cross-platform mobile develop
 
 ## 🐍 Contribution Snake
 
-<!-- 
-Note: Configured via Platane/snk workflow in .github/workflows/snake.yml
--->
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shreyash1106/Shreyash1106/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyash1106/Shreyash1106/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyash1106/Shreyash1106/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shreyash1106/Shreyash1106/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
